@@ -85,9 +85,6 @@ O sistema deve atender aos seguintes critérios:
   - Breadcrumbs para facilitar a navegação entre diferentes seções do sistema.
 <img src="https://raw.githubusercontent.com/thaiscardosodemello/serratec.residenciatic/refs/heads/main/assets/relatorio.jpg" alt="tela relatorio">
 
-<p align="center">
-   <img src="https://example.com/escopo_cinema.jpg" alt="Sistema Cinema Escopo"/>
-</p>
 
 <br/>
 <table align="center">
