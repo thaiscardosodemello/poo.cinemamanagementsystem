@@ -1,6 +1,5 @@
-<p align="center">
-   <img height="200px" src="https://raw.githubusercontent.com/thaiscardosodemello/serratec.residenciatic/refs/heads/main/assets/cinema.png" alt="Sistema Cinema"/>
-</p>
+<img height="200px" src="https://raw.githubusercontent.com/thaiscardosodemello/serratec.residenciatic/refs/heads/main/assets/cinema.png" alt="Sistema Cinema"/>
+
 
 # CineJava
 
