@@ -1,5 +1,5 @@
 <p align="center">
-   <img height="200px" src="https://example.com/logo_cinema.jpg" alt="Sistema Cinema"/>
+   <img height="200px" src="https://raw.githubusercontent.com/thaiscardosodemello/serratec.residenciatic/refs/heads/main/assets/cinema.png" alt="Sistema Cinema"/>
 </p>
 
 # CineJava
@@ -25,7 +25,7 @@ O sistema deve atender aos seguintes critérios:
      - Polimorfismo
      - Enumeradores
      - Atributos e métodos estáticos
-     - Bibliotecas como Lombok, `java.time` e outras necessárias.
+     - Bibliotecas necessárias.
 
 ## Funcionalidades
 
@@ -72,17 +72,19 @@ O sistema deve atender aos seguintes critérios:
 
 - **Tela Principal**:
   - Apresenta um layout intuitivo.
-  
+<img src="https://raw.githubusercontent.com/thaiscardosodemello/serratec.residenciatic/refs/heads/main/assets/login-min.gif" alt="tela login">
 
 - **Área do Cliente**:
   - Visualização clara das opções de compra de ingressos e produtos da bomboniere.
   - Seção dedicada ao histórico de compras.
   - Breadcrumbs para facilitar a navegação entre diferentes seções do sistema.
+<img src="https://github.com/thaiscardosodemello/serratec.residenciatic/blob/main/assets/bomboniere-min.gif" alt="tela bomboniere">
 
 - **Área do Gerente**:
   - Acesso a relatórios de vendas em formato de tabela.
   - Visualização de faturamento mensal e filmes mais vendidos.
   - Breadcrumbs para facilitar a navegação entre diferentes seções do sistema.
+<img src="https://raw.githubusercontent.com/thaiscardosodemello/serratec.residenciatic/refs/heads/main/assets/relatorio.jpg" alt="tela relatorio">
 
 <p align="center">
    <img src="https://example.com/escopo_cinema.jpg" alt="Sistema Cinema Escopo"/>
